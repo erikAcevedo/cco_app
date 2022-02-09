@@ -1,0 +1,15 @@
+{
+  "name": "cco_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "author": "Erik Acevedo",
+  "license": "MIT",
+  "dependencies": {
+    "mongoose": "^6.1.7",
+    "nodemon": "^2.0.15"
+  }
+}
